@@ -4,3 +4,7 @@
 [submodule "assignment2"]
 	path = assignment2
 	url = https://github.com/OSU-CS480-W18/assignment-2-Makumasa.git
+[submodule "assignment3"]
+	path = assignment3
+	url = https://github.com/OSU-CS480-W18/assignment-3-Makumasa.git
+	branch = master
